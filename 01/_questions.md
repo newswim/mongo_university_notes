@@ -1,0 +1,3 @@
+Concerning Minimongo....
+
+- Is the client-side document completely re-rendered when a change occurs, or only that field which receives a new state ($set)?
